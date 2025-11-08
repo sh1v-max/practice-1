@@ -7,6 +7,3 @@ const result = nums.forEach((n) => {
 console.log(result);
 
 NaN === NaN      // false
-
-"fake it till you make it"  
-  // – JavaScript
