@@ -1,6 +1,7 @@
 # Project folders to ignore
 for-her/
 netflix-clone/
+# tulip/
 
 # Node modules
 node_modules/
